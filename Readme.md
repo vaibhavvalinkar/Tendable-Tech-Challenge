@@ -1,4 +1,4 @@
-# Tendable Tech Challange
+# Tendable Tech Challenge
 
 This is a Basic Framework build over _Maven, TestNG and Selenium_. 
 
